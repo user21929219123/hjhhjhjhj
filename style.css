@@ -1,0 +1,104 @@
+body {
+   
+    font-family: sans-serif;
+    background-image:url(http://i.imgur.com/0VQrkyH.gif); 
+}
+
+
+.link-header{
+color: 	#3E0172;   
+}
+.link-nav{
+color:	#3E0172;
+
+}
+h1{
+color:#3E0172;
+border: 10px double	#3E0172;
+width:68%;
+}
+h1:hover{
+color:darkorange;
+border: 7px double	darkorange;
+font-size: 34px;
+transition:0.2s linear;
+
+
+}
+.iml:hover{
+color:darkorange;
+border: 7px double	darkorange;
+font-size: 34px;
+transition:0.2s linear;
+
+}
+div{
+position:absolute;
+
+}
+footer{
+color:#3E0172;
+border: 10px double	#3E0172;
+width: 69%;
+
+
+}
+.join{
+justify-content: center;
+display: flex;
+width:70%;
+height: 450px;
+}
+.r{
+color:#3E0172;
+
+}
+.rr{
+color:#3E0172;
+}
+footer:hover{
+width: 69%;
+color:darkorange ;
+transition:0.2s ease-out;
+font-size: large;
+border: 7px double	darkorange;
+}
+
+
+
+
+
+.r:hover{
+color:darkorange ;
+transition:0.2s ease-out;
+font-size: large;
+}
+.rr:hover{
+color:darkorange ;
+transition:0.2s ease-out;
+font-size: large;
+
+}
+
+.link-nav:hover{
+color:darkorange;
+transition:0.2s linear;  
+font-size: large;  
+}
+.link-nav{
+text-decoration: underline;
+}
+.jlp{
+display: flex;
+position: sticky; 
+top: 100px;
+float: right;
+width:30%;
+}
+iframe{
+background-color: lightgreen;
+}
+.ht{
+float: left;
+
+}
