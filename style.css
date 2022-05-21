@@ -6,15 +6,15 @@ body {
 
 
 .link-header{
-color: 	#3E0172;   
+color: 	darkorange;   
 }
 .link-nav{
-color:	#3E0172;
+color:	darkorange;
 
 }
 h1{
 color:#3E0172;
-border: 10px double	#3E0172;
+border: 10px double	darkorange;
 width:68%;
 }
 h1:hover{
@@ -37,8 +37,8 @@ position:absolute;
 
 }
 footer{
-color:#3E0172;
-border: 10px double	#3E0172;
+color:darkorange;
+border: 10px double	darkorange;
 width: 69%;
 
 
@@ -50,11 +50,11 @@ width:70%;
 height: 450px;
 }
 .r{
-color:#3E0172;
+color:darkorange;
 
 }
 .rr{
-color:#3E0172;
+color:darkorange;
 }
 footer:hover{
 width: 69%;
