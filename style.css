@@ -13,25 +13,17 @@ color:	darkorange;
 
 }
 h1{
-color:#3E0172;
+color:darkorange;
 border: 10px double	darkorange;
 width:68%;
 }
 h1:hover{
-color:darkorange;
-border: 7px double	darkorange;
+color:rebeccapurple;
+border: 7px double	rebeccapurple;
 font-size: 34px;
 transition:0.2s linear;
-
-
 }
-.iml:hover{
-color:darkorange;
-border: 7px double	darkorange;
-font-size: 34px;
-transition:0.2s linear;
 
-}
 div{
 position:absolute;
 
@@ -48,6 +40,7 @@ justify-content: center;
 display: flex;
 width:70%;
 height: 450px;
+float: top;
 }
 .r{
 color:darkorange;
@@ -58,10 +51,10 @@ color:darkorange;
 }
 footer:hover{
 width: 69%;
-color:darkorange ;
+color:rebeccapurple ;
 transition:0.2s ease-out;
 font-size: large;
-border: 7px double	darkorange;
+border: 7px double	rebeccapurple;
 }
 
 
@@ -69,24 +62,25 @@ border: 7px double	darkorange;
 
 
 .r:hover{
-color:darkorange ;
+color:rebeccapurple ;
 transition:0.2s ease-out;
 font-size: large;
 }
 .rr:hover{
-color:darkorange ;
+color:rebeccapurple ;
 transition:0.2s ease-out;
 font-size: large;
 
 }
 
 .link-nav:hover{
-color:darkorange;
+color:rebeccapurple;
 transition:0.2s linear;  
 font-size: large;  
 }
 .link-nav{
 text-decoration: underline;
+margin: 50px 0px 0px 0px;
 }
 .jlp{
 display: flex;
@@ -99,6 +93,6 @@ iframe{
 background-color: lightgreen;
 }
 .ht{
-float: left;
-
+float: top;
+display: flex;
 }
