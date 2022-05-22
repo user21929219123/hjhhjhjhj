@@ -18,8 +18,8 @@ border: 10px double	darkorange;
 width:68%;
 }
 h1:hover{
-color:rebeccapurple;
-border: 7px double	rebeccapurple;
+color:lightgreen;
+border: 7px double	lightgreen;
 font-size: 34px;
 transition:0.2s linear;
 }
@@ -51,10 +51,10 @@ color:darkorange;
 }
 footer:hover{
 width: 69%;
-color:rebeccapurple ;
+color:lightgreen ;
 transition:0.2s ease-out;
 font-size: large;
-border: 7px double	rebeccapurple;
+border: 7px double	lightgreen;
 }
 
 
@@ -62,21 +62,21 @@ border: 7px double	rebeccapurple;
 
 
 .r:hover{
-color:rebeccapurple ;
+color:lightgreen;
 transition:0.2s ease-out;
 font-size: large;
 }
 .rr:hover{
-color:rebeccapurple ;
+color:lightgreen ;
 transition:0.2s ease-out;
 font-size: large;
 
 }
 
 .link-nav:hover{
-color:rebeccapurple;
 transition:0.2s linear;  
-font-size: large;  
+font-size: 22px;
+
 }
 .link-nav{
 text-decoration: underline;
