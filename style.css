@@ -1,98 +1,82 @@
-body {
-   
-    font-family: sans-serif;
-    background-image:url(http://i.imgur.com/0VQrkyH.gif); 
-}
-
-
-.link-header{
-color: 	darkorange;   
-}
-.link-nav{
-color:	darkorange;
-
-}
-h1{
-color:darkorange;
-border: 10px double	darkorange;
+/* CSS styles */
+h1 {
+font-family: Impact, sans-serif;
+color: #CE5937;
+background-color:white;
+border:5px solid #CE5937;
+border-radius:10px;
+padding:1%;
 width:68%;
-}
-h1:hover{
-color:lightgreen;
-border: 7px double	lightgreen;
-font-size: 34px;
-transition:0.2s linear;
-}
-
-div{
-position:absolute;
 
 }
-footer{
-color:darkorange;
-border: 10px double	darkorange;
-width: 69%;
-
-
-}
-.join{
-justify-content: center;
-display: flex;
+img{
 width:70%;
-height: 450px;
-float: top;
-}
-.r{
-color:darkorange;
+border:5px solid #CE5937;
+border-radius:10px
 
 }
-.rr{
-color:darkorange;
-}
-footer:hover{
-width: 69%;
-color:lightgreen ;
-transition:0.2s ease-out;
-font-size: large;
-border: 7px double	lightgreen;
-}
-
-
-
-
-
-.r:hover{
-color:lightgreen;
-transition:0.2s ease-out;
-font-size: large;
-}
-.rr:hover{
-color:lightgreen ;
-transition:0.2s ease-out;
-font-size: large;
+body{
+background-image: url(https://i.imgur.com/1TZjxv6.png);
 
 }
 
-.link-nav:hover{
-transition:0.2s linear;  
-font-size: 22px;
+p{
+width:68%;
+font-family: Impact, sans-serif;
+font-size:17px;
+color: #CE5937;
+background-color:white;
+border:5px solid #CE5937;
+border-radius:10px;
+padding:1%;
 
 }
-.link-nav{
-text-decoration: underline;
-margin: 50px 0px 0px 0px;
+span{
+font-size:19px;
+color:darkred;
 }
-.jlp{
-display: flex;
-position: sticky; 
-top: 100px;
-float: right;
-width:30%;
+.iksweb{
+display:inline-block;
+cursor: pointer;
+font-size:19px;
+text-decoration:none;
+margin-top: 10px;
+padding:10px 16px;
+color: #CE5937;
+background-color:white;
+border-radius:12px;
+border:4px solid #424242;}
+
+.iksweb:hover{
+background:white;
+color:rgb(21,13,36);
+border:4px solid rgb(21,13,36);
+transition: all 0.2s ease;
+padding:15px 20px;
+font-size:20px;
 }
-iframe{
-background-color: lightgreen;
+ 
+.top_panel{
+
+display:block;
+border:4px solid #424242;
+background-color:white;
+border-radius:12px;
+position: sticky;
+padding:2% 2%;
+font-family: Impact, sans-serif;
+width:67%;
 }
-.ht{
-float: top;
-display: flex;
+p:hover{
+background:white;
+border:4px solid ;
+transition: all 0.2s ease;
+padding:15px 20px;
+font-size:20px;
+}
+
+img:hover{
+border:4px solid #CE5937;
+transition: all 0.2s ease;
+width:75%;
 }
